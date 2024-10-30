@@ -1,0 +1,22 @@
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section--1 {
+    background-color: blue;
+}
+
+.section--2 {
+    background-color: red;
+}
+
+.section--3 {
+    background-color: yellow;
+}
+
+.section--4 {
+    background-color: green;
+}
